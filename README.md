@@ -21,19 +21,29 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
   <li>👨‍💼 Admin access to add/modify products</li>
   <li>📱 Fully responsive design</li>
 </ul>
-Installation and Setup
+
+
+## Installation and Setup
 Clone the repository:
-bash
-Copy code
+
+```
 git clone https://github.com/your-username/techsphere.git
+```
+
 Navigate to the project directory:
 bash
 Copy code
+```
 cd techsphere
+```
+
 Install the dependencies:
 bash
 Copy code
+```
 npm install
+```
+
 Set up environment variables:
 
 Create a .env file in the project root directory.
