@@ -1,6 +1,6 @@
 <h1 align="center">TechSphere - AI-Based Interview Simulator</h1>
 <p align="center">
-    <img src="logo.png" alt="TechSphere Logo">
+    <img src="https://github.com/Abhii-07/Abhii-07.github.io/assets/97459166/6a3eebbe-77a5-41af-b5c9-d4c08a19ec04" alt="TechSphere Logo">
 </p>
 <h2 align="center">Project Overview</h2>
 TechSphere is an AI-based interview simulator developed to assist users in practicing job interviews. It leverages artificial intelligence to evaluate user responses and provide feedback. The application supports various technology-specific interview simulations such as Node.js, MERN stack, and Java. Additionally, it offers user registration and login features, allowing users to manage their accounts. The scoring and feedback generation functionalities are implemented using the OpenAI API.
