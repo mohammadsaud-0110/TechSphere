@@ -27,8 +27,7 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
   <li>🎯 AI-based evaluation of user interview responses</li>
   <li>📈 Score generation based on user performance</li>
   <li>🔍 Detailed feedback provided to improve interview skills</li>
-  <li>👨‍💼 Admin access to add/modify interview questions</li>
-  <li>📱 Fully responsive design for seamless usage on different devices</li>
+  <li>👨‍💼 AI Generated interview questions</li>
 </ul>
 
 
