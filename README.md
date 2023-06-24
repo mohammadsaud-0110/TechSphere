@@ -10,7 +10,8 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
     Styling: <i>Tailwind CSS</i><br>
     AI Integration: <i>OpenAI API</i>
 </p>
-## 🚀 Features
+
+<h2 align="center">🚀 Features</h2>
 
 <ul>
   <li>🔐 User registration and login with validation</li>
