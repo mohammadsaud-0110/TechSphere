@@ -15,7 +15,7 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
 <p align="center">
     <ul>
   <li>Server Deployed Link: https://techsphere-er21.onrender.com/</li>
-  <li> Netlify Deployed Link: https://techsphere.hackathon.netlify.app/</li>
+  <li> Netlify Deployed Link: https://techsphere-hackathon.netlify.app/</li>
 </ul>
    
 </p>
