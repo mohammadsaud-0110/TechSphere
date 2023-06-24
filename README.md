@@ -10,12 +10,17 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
     Styling: <i>Tailwind CSS</i><br>
     AI Integration: <i>OpenAI API</i>
 </p>
-<h1 align="center">Features</h1>
-Choose specific technology interviews such as Node.js, MERN stack, or Java.
-User registration and login functionality.
-AI-based evaluation of user interview responses.
-Score generation based on user performance.
-Detailed feedback provided to improve interview skills.
+## 🚀 Features
+
+<ul>
+  <li>🔐 Login/signup with validation</li>
+  <li>📝 Detailed description of each product</li>
+  <li>🛒 Add functionality to cart with desired quantity of each product</li>
+  <li>➕ Increase or decrease the quantity, as well as delete the item from the cart</li>
+  <li>💳 Check out the payment page and confirm the order</li>
+  <li>👨‍💼 Admin access to add/modify products</li>
+  <li>📱 Fully responsive design</li>
+</ul>
 Installation and Setup
 Clone the repository:
 bash
