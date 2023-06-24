@@ -64,10 +64,10 @@ Open your browser and visit http://localhost:3000 to access TechSphere.
 
 ## Contributors:
 
-Hemandh pm	
-Lokendra Pal Shekhawat	
-Mohammad Saud	
-sohel rana halder	
-Salman Khan	
-Abhijeet Hiwale
+* Hemandh pm	
+* Lokendra Pal Shekhawat	
+* Mohammad Saud	
+* sohel rana halder	
+* Salman Khan	
+* Abhijeet Hiwale
 
