@@ -13,13 +13,13 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
 ## 🚀 Features
 
 <ul>
-  <li>🔐 Login/signup with validation</li>
-  <li>📝 Detailed description of each product</li>
-  <li>🛒 Add functionality to cart with desired quantity of each product</li>
-  <li>➕ Increase or decrease the quantity, as well as delete the item from the cart</li>
-  <li>💳 Check out the payment page and confirm the order</li>
-  <li>👨‍💼 Admin access to add/modify products</li>
-  <li>📱 Fully responsive design</li>
+  <li>🔐 User registration and login with validation</li>
+  <li>📝 Choose specific technology interviews like Node.js, MERN stack, or Java</li>
+  <li>🎯 AI-based evaluation of user interview responses</li>
+  <li>📈 Score generation based on user performance</li>
+  <li>🔍 Detailed feedback provided to improve interview skills</li>
+  <li>👨‍💼 Admin access to add/modify interview questions</li>
+  <li>📱 Fully responsive design for seamless usage on different devices</li>
 </ul>
 
 
@@ -50,17 +50,27 @@ Create a .env file in the project root directory.
 Add the following environment variables:
 makefile
 Copy code
+```
 OPENAI_API_KEY=your_openai_api_key
+```
 Replace your_openai_api_key with your actual OpenAI API key.
+
 Start the application:
 
 bash
 Copy code
+```
 npm start
+```
+
 Open your browser and visit http://localhost:3000 to access TechSphere.
+
+
 Contributors
-John Doe
-Jane Smith
-License
-This project is licensed under the MIT License.
+Hemandh pm	
+Lokendra Pal Shekhawat	
+Mohammad Saud	
+sohel rana halder	
+Salman Khan	
+Abhijeet Hiwale
 
