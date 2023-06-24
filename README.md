@@ -32,15 +32,13 @@ git clone https://github.com/your-username/techsphere.git
 ```
 
 Navigate to the project directory:
-bash
-Copy code
+
 ```
 cd techsphere
 ```
 
 Install the dependencies:
-bash
-Copy code
+
 ```
 npm install
 ```
@@ -49,8 +47,7 @@ Set up environment variables:
 
 Create a .env file in the project root directory.
 Add the following environment variables:
-makefile
-Copy code
+
 ```
 OPENAI_API_KEY=your_openai_api_key
 ```
@@ -58,8 +55,6 @@ Replace your_openai_api_key with your actual OpenAI API key.
 
 Start the application:
 
-bash
-Copy code
 ```
 npm start
 ```
@@ -67,7 +62,8 @@ npm start
 Open your browser and visit http://localhost:3000 to access TechSphere.
 
 
-Contributors
+## Contributors:
+
 Hemandh pm	
 Lokendra Pal Shekhawat	
 Mohammad Saud	
