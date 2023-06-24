@@ -11,6 +11,14 @@ TechSphere is an AI-based interview simulator developed to assist users in pract
     AI Integration: <i>OpenAI API</i>
 </p>
 
+<h1 align="center">Deployed Versions</h1>
+<p align="center">
+    <ul>
+  <li>Server Deployed Link: https://techsphere-er21.onrender.com/</li>
+  <li> Netlify Deployed Link: https://techsphere.netlify.app/</li>
+</ul>
+   
+</p>
 <h2 align="center">🚀 Features</h2>
 
 <ul>
@@ -64,10 +72,10 @@ Open your browser and visit http://localhost:3000 to access TechSphere.
 
 ## Contributors:
 
-* Hemandh pm	
-* Lokendra Pal Shekhawat	
-* Mohammad Saud	
-* sohel rana halder	
-* Salman Khan	
-* Abhijeet Hiwale
+* [@Hemandh pm](https://github.com/Hemandh7)
+* [@Lokendra Pal Shekhawat](https://github.com/lokendra0905)
+* [@Mohammad Saud	](https://github.com/mohammadsaud-0110)
+* [@sohel rana halder]()
+* [@Salman Khan]()
+* [@Abhijeet Hiwale](https://github.com/Abhii-07)
 
