@@ -13,13 +13,14 @@ export const LoginForm = () => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    const loginData = {
+
+    const regData = {
       email,
       password,
     };
     setButton(true);
     axios
-      .post("https://techsphere-er21.onrender.com/user/login", loginData)
+      .post(`https://techsphere-er21.onrender.com/user/login`, regData)
       .then((res) => {
         toast(res.data.msg);
         console.log(res.data);
@@ -29,7 +30,7 @@ export const LoginForm = () => {
         window.location.reload();
       })
       .catch((err) => {
-        toast("Invalid Credentials");
+        toast("Invalid Crediantials");
         setButton(false);
       });
   };
