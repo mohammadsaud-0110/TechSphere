@@ -23,7 +23,9 @@ export const LoginForm = () => {
       .post(`https://techsphere-er21.onrender.com/user/login`, regData)
       .then((res) => {
         toast(res.data.msg);
-        localStorage.setItem("accessToken", res.data["access Token"]); // Store access token in localStorage
+        console.log(res.data);
+        localStorage.setItem("accessToken", res.data["access Token"]);
+        localStorage.setItem("userID", res.data.userID); // Store access token in localStorage
         navigate("/");
         window.location.reload();
       })
