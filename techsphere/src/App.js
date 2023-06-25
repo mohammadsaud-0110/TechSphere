@@ -8,19 +8,19 @@ function App() {
   return (
     <div className="gradient__bg">
       <Navbar />
-      <ToastContainer
-        position="top-center"
-        autoClose={2000}
-        limit={1}
-        hideProgressBar={false}
-        newestOnTop={false}
-        closeOnClick
-        rtl={false}
-        pauseOnFocusLoss
-        draggable
-        pauseOnHover
-        theme="dark"
-      />
+        <ToastContainer
+          position="top-center"
+          autoClose={2000}
+          limit={1}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="dark"
+        />
       <MainRoutes />
     </div>
   );
