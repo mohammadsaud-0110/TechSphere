@@ -34,13 +34,8 @@ export const RecordAudio = () => {
             {isCopied ? "Copied!" : "Copy to clipboard"}
           </button> */}
           <p>Microphone: {listening ? "on" : "off"}</p>
-          <button class="rounded-none ..." onClick={startListening}>
-            Start Listening
-          </button>
-          <button
-            class="rounded-none ..."
-            onClick={SpeechRecognition.stopListening}
-          >
+          <button onClick={startListening}>Start Listening</button>
+          <button onClick={SpeechRecognition.stopListening}>
             Stop Listening
           </button>
         </div>
