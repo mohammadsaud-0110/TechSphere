@@ -13,20 +13,22 @@ export const LoginForm = () => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-
-    const regData = {
+    const loginData = {
       email,
       password,
     };
     setButton(true);
     axios
-      .post(`https://techsphere-er21.onrender.com/user/login`, regData)
+      .post("https://techsphere-er21.onrender.com/user/login", loginData)
       .then((res) => {
         toast(res.data.msg);
+        console.log(res.data);
+        localStorage.setItem("accessToken", res.data["access Token"]); // Store access token in localStorage
         navigate("/");
+        window.location.reload();
       })
       .catch((err) => {
-        toast("Invalid Crediantials");
+        toast("Invalid Credentials");
         setButton(false);
       });
   };
