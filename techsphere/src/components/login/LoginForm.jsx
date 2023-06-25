@@ -23,7 +23,8 @@ export const LoginForm = () => {
       .then((res) => {
         toast(res.data.msg);
         console.log(res.data);
-        localStorage.setItem("accessToken", res.data["access Token"]); // Store access token in localStorage
+        localStorage.setItem("accessToken", res.data["access Token"]);
+        localStorage.setItem("userID", res.data.userID); // Store access token in localStorage
         navigate("/");
         window.location.reload();
       })
